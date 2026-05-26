@@ -49,12 +49,6 @@ Bot comparing laptop prices and ratings across Amazon/Flipkart — exporting CSV
 
 ---
 
-## 📊 GitHub Stats
-
-![Rudrakumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudraKumar002&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rudrakumar-p-397625247/)
